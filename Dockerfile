@@ -1,3 +1,5 @@
-FROM fluent/fluent-bit:2.2.3
+FROM alpine:latest
+
+COPY /tmp/hello /mnt/hello
 
 USER 10014 
