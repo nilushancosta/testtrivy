@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM nilushan11111:jsadaksdhajskd
 
 COPY /tmp/hello /mnt/hello
 
