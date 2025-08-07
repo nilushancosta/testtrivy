@@ -1,4 +1,4 @@
-FROM costa11111nilushan:jasdbjasbdjasd
+FROM alpine:nilushancosta
 
 COPY /tmp/hello /mnt/hello
 
